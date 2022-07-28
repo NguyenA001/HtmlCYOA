@@ -1,0 +1,27 @@
+h3{
+    color:blueviolet;
+    font-family:'Courier New', Courier, monospace
+}
+h1{
+    color:blueviolet;
+    font-family:'Courier New', Courier, monospace
+}
+body{
+    background-color:lightyellow;
+}
+
+a{
+    color:darkslategrey;
+    font-family: cursive;
+}
+
+.center{
+    margin-left: auto;
+    margin-right:auto;
+    width: 500px;
+}
+
+.textCenter{
+    text-align: center;
+    padding-bottom: 100px;
+}
